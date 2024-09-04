@@ -9,7 +9,7 @@
 **1. Clone the repository:**
 
 ```bash
-git clone git@github.com:Moamal-2000/e-commerce.git
+git clone https://github.com/tiwarivaishali8979/E-Commerce.git
 ```
 
 **2. Install dependencies:**
